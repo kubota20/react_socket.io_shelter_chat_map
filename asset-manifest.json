@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_socket.io_shelter_chat_map/static/css/main.f8c476bd.css",
+    "main.js": "/react_socket.io_shelter_chat_map/static/js/main.f9743d17.js",
+    "index.html": "/react_socket.io_shelter_chat_map/index.html",
+    "main.f8c476bd.css.map": "/react_socket.io_shelter_chat_map/static/css/main.f8c476bd.css.map",
+    "main.f9743d17.js.map": "/react_socket.io_shelter_chat_map/static/js/main.f9743d17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8c476bd.css",
+    "static/js/main.f9743d17.js"
+  ]
+}
